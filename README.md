@@ -1,89 +1,76 @@
 <h1 align="center">About Me — Ziad Nasser</h1>
-<h3 align="center">Red Team Researcher | Offensive Security | Windows Internals</h3>
+<h3 align="center">Red Team Operator | Adversary Emulation | Windows Internals</h3>
 
 <p align="center">
-🔴 Red Team & Adversary Simulation  
+🔴 Red Team Operations & Adversary Simulation  
 🧠 Windows Internals (User / Kernel Mode)  
-🧪 Malware & Exploit Research (Educational Only)
-</p>
-
-<p align="left">
-<a href="https://twitter.com/ziadnasser01" target="blank">
-<img src="https://img.shields.io/twitter/follow/ziadnasser01?logo=twitter&style=for-the-badge" alt="ziadnasser01" />
-</a>
+🧪 Payload Development & Evasion Tradecraft
 </p>
 
 ---
 
-<h3 align="left">👤 About Me:</h3>
+<h3 align="left">👤 About Me</h3>
 
 <p align="left">
-أنا <b>Red Team Researcher</b> مهتم بفهم الأنظمة من الداخل مش مجرد استخدام أدوات.<br><br>
+I am a Red Team Operator focused on realistic adversary emulation and offensive security research to improve defensive capabilities.
+</p>
 
-تركيزي الأساسي:
+---
+
+<h3 align="left">📚 Core Red Team Learning Path</h3>
+
 <ul>
-  <li>Windows Internals (NTDLL, Syscalls, Kernel Transition)</li>
-  <li>Malware Behavior Analysis</li>
-  <li>Exploit Development (Lab & Research)</li>
-  <li>Red Team Tradecraft & TTPs</li>
-  <li>EDR / AV Evasion (Defensive Awareness)</li>
+  <li>Networking Fundamentals (TCP/IP, DNS, HTTP, Active Directory)</li>
+  <li>Linux & Windows Fundamentals</li>
+  <li>Penetration Testing Methodology</li>
+  <li>Adversary Emulation & MITRE ATT&CK</li>
+  <li>Initial Access Techniques</li>
+  <li>Lateral Movement & Pivoting</li>
+  <li>Privilege Escalation</li>
+  <li>Persistence & Defense Evasion</li>
+  <li>Command & Control (C2) Concepts</li>
+  <li>Operational Security (OPSEC)</li>
 </ul>
 
-كل الشغل <b>تعليمي وبحثي</b> وهدفه تحسين الدفاعات الأمنية.
-</p>
+---
+
+<h3 align="left">🧠 Windows Internals Focus</h3>
+
+<ul>
+  <li>User Mode vs Kernel Mode Architecture</li>
+  <li>Windows API vs Native API vs Syscalls</li>
+  <li>PE File Structure</li>
+  <li>Process, Thread, Handle, Token Internals</li>
+  <li>Memory Management & Virtual Memory</li>
+  <li>NTDLL, System Calls, Kernel Transitions</li>
+  <li>Driver Communication Basics</li>
+</ul>
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ziadnasser01" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-</p>
+<h3 align="left">💻 Programming Languages</h3>
+
+<ul>
+  <li>C / C++ (low-level & payload development)</li>
+  <li>C# (tooling, loaders, automation)</li>
+  <li>Python (automation, exploitation, scripting)</li>
+  <li>Assembly (x86/x64 reverse engineering)</li>
+  <li>Bash (Linux automation)</li>
+  <li>JavaScript (web exploitation & tooling)</li>
+</ul>
 
 ---
 
-<h3 align="left">🛠 Red Team Tools & Languages:</h3>
+<h3 align="left">🛠 Tools & Platforms</h3>
 
-<p align="left">
-<!-- Core -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
-
-<!-- OS & Low Level -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40"/>
-
-<!-- Dev & Infra -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-
-<!-- Web (Secondary) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-</p>
+<ul>
+  <li>Metasploit, Cobalt Strike (lab), Sliver</li>
+  <li>Impacket, CrackMapExec, BloodHound</li>
+  <li>Nmap, Burp Suite</li>
+  <li>Volatility, Procmon, WinDbg</li>
+  <li>Docker, Git</li>
+</ul>
 
 ---
 
-<h3 align="left">☕ Support:</h3>
-<p>
-<a href="https://www.buymeacoffee.com/ziadnasseer">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
-</a>
-</p>
-
----
-
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadnasser&layout=compact"/>
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadnasser&show_icons=true"/>
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadnasser"/>
-</p>
+<p align="center"><i>All work is for educational and defensive purposes only.</i></p>
