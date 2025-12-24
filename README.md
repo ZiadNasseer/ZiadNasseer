@@ -7,6 +7,12 @@
 🧪 Payload Development & Evasion Tradecraft
 </p>
 
+<p align="center">
+<a href="https://twitter.com/ziadnasser01" target="blank">
+<img src="https://img.shields.io/twitter/follow/ziadnasser01?logo=twitter&style=for-the-badge" alt="ziadnasser01" />
+</a>
+</p>
+
 ---
 
 <h3 align="left">👤 About Me</h3>
@@ -51,12 +57,12 @@ I am a Red Team Operator focused on realistic adversary emulation and offensive 
 <h3 align="left">💻 Programming Languages</h3>
 
 <ul>
-  <li>C / C++ (low-level & payload development)</li>
-  <li>C# (tooling, loaders, automation)</li>
-  <li>Python (automation, exploitation, scripting)</li>
-  <li>Assembly (x86/x64 reverse engineering)</li>
-  <li>Bash (Linux automation)</li>
-  <li>JavaScript (web exploitation & tooling)</li>
+  <li>C / C++</li>
+  <li>C#</li>
+  <li>Python</li>
+  <li>Assembly (x86/x64)</li>
+  <li>Bash</li>
+  <li>JavaScript</li>
 </ul>
 
 ---
@@ -64,7 +70,7 @@ I am a Red Team Operator focused on realistic adversary emulation and offensive 
 <h3 align="left">🛠 Tools & Platforms</h3>
 
 <ul>
-  <li>Metasploit, Cobalt Strike (lab), Sliver</li>
+  <li>Metasploit, Sliver, Cobalt Strike (lab)</li>
   <li>Impacket, CrackMapExec, BloodHound</li>
   <li>Nmap, Burp Suite</li>
   <li>Volatility, Procmon, WinDbg</li>
@@ -73,4 +79,49 @@ I am a Red Team Operator focused on realistic adversary emulation and offensive 
 
 ---
 
-<p align="center"><i>All work is for educational and defensive purposes only.</i></p>
+<h3 align="left">🔗 Connect with me</h3>
+<p align="left">
+<a href="https://twitter.com/ziadnasser01" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+</a>
+</p>
+
+---
+
+<h3 align="left">🛠 Tech Stack Icons</h3>
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+<h3 align="left">☕ Support</h3>
+<p>
+<a href="https://www.buymeacoffee.com/ziadnasseer">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210"/>
+</a>
+</p>
+
+---
+
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ziadnasser&layout=compact"/>
+</p>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ziadnasser&show_icons=true"/>
+</p>
+
+<p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ziadnasser"/>
+</p>
