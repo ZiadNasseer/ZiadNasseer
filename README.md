@@ -72,10 +72,10 @@ I am a Red Team Operator focused on realistic adversary emulation and offensive 
 <h3 align="left">🛠 Tools & Platforms</h3>
 
 <ul>
-  <li>Metasploit, Sliver, Cobalt Strike (lab)</li>
+  <li>Metasploit, Sliver, Cobalt Strike, Brute Ratel, Mythic (lab)</li>
   <li>Impacket, CrackMapExec, BloodHound</li>
-  <li>Nmap, Burp Suite</li>
-  <li>Volatility, Procmon, WinDbg</li>
+  <li>Nmap, Burp Suite, Wireshark</li>
+  <li>Volatility, WinDbg, x64dbg, IDA, ImmunityDebugger, ghidra</li>
   <li>Docker, Git</li>
 </ul>
 
